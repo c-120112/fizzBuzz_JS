@@ -18,6 +18,6 @@ else {
     output.push(count);
 }
 count ++;
-        console.log(output);
      }
+console.log(output);
 }
